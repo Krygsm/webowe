@@ -10,15 +10,6 @@
     <title>Skibidi sigma rizzler</title>
 </head>
 <body>
-    <main>
-        <div class="top-bar">
-          <h3>Tytuł</h3>  
-        </div>
-        <section class="content">
-            <div class="container-fluid">
-                <p>content</p>
-            </div>
-        </section>
-    </main>
+    
 </body>
 </html>
